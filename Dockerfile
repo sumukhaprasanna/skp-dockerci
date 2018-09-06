@@ -1,3 +1,4 @@
+# Builing from Centos7
 FROM centos:centos7
 
 LABEL MAINTAINER=nigelpoulton@hotmail.com
